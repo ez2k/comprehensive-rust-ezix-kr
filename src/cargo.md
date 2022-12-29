@@ -10,7 +10,7 @@ $ sudo apt install cargo rust-src
 
 이렇게 하면 [rust-analyzer][1] 가 정의로 이동할 수 있습니다. [VS Code][2] 를 사용하여 코드를 편집하는 것이 좋습니다(단, LSP 호환 편집기는 작동합니다).
 
-참고로, 액세스/기능이 있다면 [rustup](https://rustup.rs/)을 통해 Rust의 툴링을 설치하는 것이 좋습니다. 이 툴링은 다른 에코시스템과 더 잘 통합되기 때문입니다.
+참고로, 접근성이 필요하다면 [rustup](https://rustup.rs/)을 통해 Rust의 툴을 설치하는 것이 좋습니다. 이 툴은 다른 에코시스템과 더 잘 통합되기 때문입니다.
 
 [1]: https://rust-analyzer.github.io/
 [2]: https://code.visualstudio.com/
