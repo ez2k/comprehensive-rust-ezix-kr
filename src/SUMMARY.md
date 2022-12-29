@@ -1,4 +1,4 @@
-# Summary
+# 요약
 
 [Welcome to Comprehensive Rust 🦀](welcome.md)
 - [Using Cargo](cargo.md)
@@ -8,7 +8,7 @@
 - [Course Structure](structure.md)
 
 
-# Day 1: Morning
+# 1일차: 오전
 
 ----
 
@@ -34,7 +34,7 @@
   - [Implicit Conversions](exercises/day-1/implicit-conversions.md)
   - [Arrays and `for` Loops](exercises/day-1/for-loops.md)
 
-# Day 1: Afternoon
+# 1일차: 오후
 
 - [Variables](basic-syntax/variables.md)
   - [Type Inference](basic-syntax/type-inference.md)
@@ -64,7 +64,7 @@
   - [Iterators and Ownership](exercises/day-1/iterators-and-ownership.md)
 
 
-# Day 2: Morning
+# 2일차: 오전
 
 ----
 
@@ -87,7 +87,7 @@
   - [Health Statistics](exercises/day-2/health-statistics.md)
   - [Points and Polygons](exercises/day-2/points-polygons.md)
 
-# Day 2: Afternoon
+# 2일차: 오후
 
 - [Control Flow](control-flow.md)
   - [Blocks](control-flow/blocks.md)
