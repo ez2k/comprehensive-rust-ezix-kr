@@ -1,14 +1,10 @@
-# Code Samples in This Training
+# 이 교육의 코드 샘플
 
-For this training, we will mostly explore the Rust language through examples
-which can be executed through your browser. This makes the setup much easier and
-ensures a consistent experience for everyone.
+이 교육을 위해, 우리는 주로 당신의 브라우저를 통해 실행될 수 있는 예시를 통해 Rust 언어를 연습할 것이다. 이렇게 하면 설치가 훨씬 쉬워지고 모든 사용자가 일관된 환경을 사용할 수 있습니다.
 
-Installing Cargo is still encouraged: it will make it easier for you to do the
-exercises. On the last day, we will do a larger exercise which shows you how to
-work with dependencies and for that you need Cargo.
+Cargo를 설치하는 것이 좋습니다. 연습을 더 쉽게 할 수 있습니다. 마지막 날, 우리는 당신이 Cargo를 필요로 하는 의존성을 가지고 일하는 방법을 보여주는 더 큰 연습을 할 것입니다.
 
-The code blocks in this course are fully interactive:
+이 과정의 코드 블록은 완전히 상호 작용합니다.
 
 ```rust,editable
 fn main() {
@@ -16,5 +12,4 @@ fn main() {
 }
 ```
 
-You can use <kbd>Ctrl-Enter</kbd> to execute the code when focus is in the text
-box.
+<kbd>Ctrl-Enter</kbd>를 사용하여 텍스트 상자에 포커스가 있을 때 코드를 실행할 수 있습니다.
