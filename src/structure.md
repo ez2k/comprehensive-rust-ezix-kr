@@ -1,22 +1,20 @@
-# Course Structure
+# 과정 구성
 
-The course is fast paced and we will cover a lot of ground over the next 3--4
-days:
+코스는 빠르게 진행되며 앞으로 3~4일 동안 많은 분야를 다룰 예정입니다.
 
-* Day 1: Basic Rust, ownership and the borrow checker.
-* Day 2: Compound data types,  pattern matching, the standard library.
-* Day 3: Traits and generics, error handling, testing, unsafe Rust.
-* Day 4: Concurrency in Rust and interoperatibilty with other languages
+* 1일차: Rust 기본, ownership and the borrow checker.
+* 2일차: 복합 데이터 유형, 패턴 매칭, 표준 라이브러리.
+* 3일차: 특성 및 제네릭, 오류 처리, 테스트, 안전하지 않은 Rust.
+* 4일차: Rust의 동시성 및 다른 언어와의 상호 운용성
 
-> **Exercise for Day 4:** Do you interface with some C/C++ code in your project
-> which we could attempt to move to Rust? The fewer dependencies the better.
-> Parsing code would be ideal.
+> **4일차 연습:** 러스트로 이전하는 프로젝트에서 일부 C/C++ 코드와 연동합니까? 종속성이 적을수록 좋습니다.
+> 파싱 코드가 이상적일 겁니다.
 
-## Format
+## 형식
 
-The course is interactive and your questions will drive our exploration of Rust!
+코스는 대화식이며, 여러분의 질문이 Rust 탐험을 이끌 것입니다!
 
-* Please ask questions when you get them, don't save them to the end.
-* Discussions are very much encouraged!
-* We will likely talk about things ahead of the slides.
-  * The slides are just a support and we are free to skip them as we like.
+* 질문을 받으면 질문을 해주세요, 끝까지 저장하지 말고.
+* 토론을 장려합니다!
+* 슬라이드에 앞서 여러 가지 사항에 대해 이야기할 것입니다..
+  * 슬라이드는 도움을 줄 뿐이며, 원하는 대로 건너뛸 수 있습니다.
