@@ -1,17 +1,9 @@
-# The Rust Ecosystem
+# Rust 에코시스템
 
-The Rust ecosystem consists of a number of tools, of which the main ones are:
+러스트 생태계는 많은 도구들로 구성되어 있는데, 그 중 주요한 것들은 다음과 같음.
 
-* `rustc`: the Rust compiler which turns `.rs` files into binaries and other
-  intermediate formats.
+* `rustc`: `.rs` 파일을 바이너리 및 기타 중간 형식으로 변환하는 Rust 컴파일러.
 
-* `cargo`: the Rust dependency manager and build tool. Cargo knows how to
-  download dependencies hosted on <https://crates.io> and it will pass them to
-  `rustc` when building your project. Cargo also comes with a built-in test
-  runner which is used to execute unit tests.
+* `cargo`: Rust 의존성 매니저 및 빌드 툴. Cargo는 <https://crates.io> 에서 호스팅되는 종속성을 다운로드하는 방법을 알고 있으며 프로젝트를 구축할 때 이를 `rustc` 로 전달합니다. Cargo는 유닛 테스트를 실행하는 데 사용되는 테스트 러너가 내장되어 있습니다.
 
-* `rustup`: the Rust toolchain installer and updater. This tool is used to
-  install and update `rustc` and `cargo` when new versions of Rust is released.
-  In addition, `rustup` can also download documentation for the standard
-  library. You can have multiple versions of Rust installed at once and `rustup`
-  will let you switch between them as needed.
+* `rustup`: Rust 툴체인 설치 및 업데이트 프로그램. 이 도구는 Rust의 새 버전이 출시 될 때 `rustc`와 `cargo` 를 설치하고 업데이트하는 데 사용됩니다. 또한 `rustup` 은 표준 라이브러리에 대한 문서를 다운로드할 수도 있습니다. 한 번에 여러 버전의 Rust를 설치할 수 있으며 `rustup`을 사용하면 필요에 따라 여러 버전을 전환 할 수 있습니다.
