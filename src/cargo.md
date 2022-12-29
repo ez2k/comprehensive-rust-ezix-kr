@@ -1,22 +1,16 @@
-# Using Cargo
+# Cargo 사용하기
 
-When you start reading about Rust, you will soon meet [Cargo](https://doc.rust-lang.org/cargo/), the standard tool
-used in the Rust ecosystem to build and run Rust applications. Here we want to
-give a brief overview of what Cargo is and how it fits into the wider ecosystem
-and how it fits into this training.
+러스트에 대해 읽기 시작하면 머지않아 러스트 생태계에서 러스트 애플리케이션을 만들고 실행하는 데 사용되는 표준 도구인  [Cargo](https://doc.rust-lang.org/cargo/)를 만나게 될 것입니다. 여기서 우리는 Cargo가 무엇인지, 그리고 그것이 더 넓은 생태계에 어떻게 들어 맞는지, 그리고 그것이이 훈련에 어떻게 들어 맞는지에 대한 간략한 개요를 제공하고자 합니다.
 
-On Debian/Ubuntu, you can install Cargo and the Rust source with
+데비안/우분투에서는 다음과 같이 Cargo와 Rust 소스를 설치할 수 있습니다.
 
 ```shell
 $ sudo apt install cargo rust-src
 ```
 
-This will allow [rust-analyzer][1] to jump to the definitions. We suggest using
-[VS Code][2] to edit the code (but any LSP compatible editor works).
+이렇게 하면 [rust-analyzer][1] 가 정의로 이동할 수 있습니다. [VS Code][2] 를 사용하여 코드를 편집하는 것이 좋습니다(단, LSP 호환 편집기는 작동합니다).
 
-As a sidenote: if you have the access/capability to do so, it's recommended to
-install Rust's tooling via [rustup](https://rustup.rs/) since it's better integrated with the
-rest of the ecosystem.
+참고로, 액세스/기능이 있다면 [rustup](https://rustup.rs/)을 통해 Rust의 툴링을 설치하는 것이 좋습니다. 이 툴링은 다른 에코시스템과 더 잘 통합되기 때문입니다.
 
 [1]: https://rust-analyzer.github.io/
 [2]: https://code.visualstudio.com/
